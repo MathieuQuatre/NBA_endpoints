@@ -69,3 +69,4 @@ exports.handler = async function(event, context) {
     };
   }
 };
+module.exports = app;
