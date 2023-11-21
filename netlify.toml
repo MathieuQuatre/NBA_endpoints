@@ -1,0 +1,2 @@
+[build]
+  command = "node app.js"  # Replace with your actual entry file
